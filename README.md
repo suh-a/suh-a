@@ -5,14 +5,21 @@
 ### 📊 Progresso no GitHub  
 
 <div style="display: flex; justify-content: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=suh-a&show_icons=true&theme=rose_pine&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=1a1b27&border_radius=15&ring_color=ff79c6" alt="GitHub Stats" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suh-a&layout=compact&theme=rose_pine&title_color=ff79c6&text_color=f8f8f2&bg_color=1a1b27&border_radius=15" alt="Top Langs" height="180em"/>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=suh-a&show_icons=true&theme=rose_pine&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=1a1b27&border_radius=15&ring_color=ff79c6" alt="GitHub Stats" height="180em"/>
+  </a>
+
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suh-a&layout=compact&theme=rose_pine&title_color=ff79c6&text_color=f8f8f2&bg_color=1a1b27&border_radius=15" alt="Top Langs" height="180em"/>
+  </a>
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suh-a&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=f8f8f2&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<a href="#">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suh-a&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=f8f8f2&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</a>
+
 
 
 ---
